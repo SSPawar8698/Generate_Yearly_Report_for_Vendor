@@ -155,7 +155,7 @@
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
                 </ui:CommentOut>
-                <If Condition="[in_TransactionNumber&lt;=3]" sap:VirtualizedContainerService.HintSize="510.4,679.2" sap2010:WorkflowViewState.IdRef="If_2">
+                <If Condition="[in_TransactionNumber&lt;=io_dt_TransactionData.Rows.Count]" sap:VirtualizedContainerService.HintSize="510.4,679.2" sap2010:WorkflowViewState.IdRef="If_2">
                   <If.Then>
                     <Sequence sap:VirtualizedContainerService.HintSize="476.8,171.2" sap2010:WorkflowViewState.IdRef="Sequence_10">
                       <sap:WorkflowViewStateService.ViewState>
