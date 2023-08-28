@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+848014,"Waste management services",76442,15288.4,91730.4,USD,2017-12-19
+798750,"Beverages and Catering",251522,50304.4,301826,EUR,2017-12-14
+269058,"Beverages and Catering",198705,39741,238446,RON,2017-12-09

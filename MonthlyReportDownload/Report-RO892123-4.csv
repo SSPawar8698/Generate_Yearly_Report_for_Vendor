@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+603751,"Various paper supplies",112619,22523.8,135143,USD,2017-04-28
+402133,"Concierge Services",21859,4371.8,26230.8,RON,2017-04-24
+879488,"IT Support",214240,42848,257088,RON,2017-04-11

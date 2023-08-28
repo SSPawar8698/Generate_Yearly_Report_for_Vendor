@@ -1,2 +1,3 @@
-InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
-825892,"Professional Services",2017-10-15,216370,43274,259644,RON
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+853994,"IT Support",158357,31671.4,190028,CAD,2017-10-22
+566723,"Professional Services",167350,33470,200820,RON,2017-10-25

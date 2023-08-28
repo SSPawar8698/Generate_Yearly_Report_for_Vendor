@@ -1,4 +1,2 @@
-InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
-409366,"Beverages and Catering",283825,56765,340590,CAD,2017-11-19
-423385,"IT Support",181876,36375.2,218251,CAD,2017-11-10
-491668,"Professional Services",173499,34699.8,208199,CAD,2017-11-14
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+361686,"Concierge Services",2017-11-16,66056,13211.2,79267.2,CAD
